@@ -19,3 +19,7 @@ Fonts play a significant role in the design of a website, but using cusom fonts 
 
 ##Image
 Make sure you set a height and a width for images before theyre susceptible 
+
+## Nested Routes
+Routes a created in the /app folder using folder names and either a page.tsx or layout.tsx
+Anything in the glodal layout file will be displayed for the whole roject. So using metadata or footers for example should be placed here
